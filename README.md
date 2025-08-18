@@ -9,7 +9,7 @@
 &emsp;
 Frameworks & Libraries:
 &emsp;
-_Spring Boot (Java), React.js, Vue.js, Next.js</br>_
+_Spring Boot (Java), Laravel (PHP), React.js, Vue.js, Next.js</br>_
 &emsp;
 Languages:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;
@@ -19,7 +19,7 @@ _Java, Python, C/C++, HTML/CSS, JavaScript/TypeScript, OCaml_
 &emsp;
 Frameworks & Libraries:
 &emsp;
-_Laravel (PHP), Django (Python)</br>_
+_Next.js, Payload CMS, FastAPI (Python)</br>_
 &emsp;
 Languages:
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;
@@ -29,7 +29,7 @@ _Go (beginner)_
 
 <br>
 
-### `isCasuallyOpenToOffers = true`
+### `isActivelyOpenToOffers = true`
 
 <!---
 Sample comment block. Not visibile.
