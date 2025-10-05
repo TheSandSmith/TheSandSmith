@@ -1,4 +1,4 @@
-### 👋 Hi there, I’m @joeBash!
+### 👋 Hi there, I’m @TheSandSmith!
 <br>
 
 🌎 **Based in:** Montréal (Canada)..._ça va bien ?_
