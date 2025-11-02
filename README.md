@@ -3,29 +3,17 @@
 
 🌎 **Based in:** Montréal (Canada)..._ça va bien ?_
 
-👀 **Interested in:** Web/Mobile Apps, Algorithm Design, Web3 (blockchain)
+👀 **Interested in:** Web Development, Big Data, Automation, and Web3 (blockchain)
 
 🍃 **Like a breeze:**</br>
 &emsp;
-Frameworks & Libraries:
-&emsp;
-_Spring Boot (Java), Laravel (PHP), React.js, Vue.js, Next.js</br>_
-&emsp;
-Languages:
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;
-_Java, Python, C/C++, HTML/CSS, JavaScript/TypeScript, OCaml_
+_Python (FastAPI + Scripting), Java (Spring Boot), PHP (Laravel), React.js / Next.js, Vue.js / Nuxt.js</br>_
 
 🎯 **Currently learning:**</br>
 &emsp;
-Frameworks & Libraries:
-&emsp;
-_Next.js, Payload CMS, FastAPI (Python)</br>_
-&emsp;
-Languages:
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;
-_Go (beginner)_
+_Svelte / SvelteKit, Go, Rust, Solidity</br>_
 
-📫 **Ping me:** [hello@joebashour.ca](mailto:hello@joebashour.ca) (fastest channel to reach me) 
+📫 **Ping me:** [hello@joebashour.dev](mailto:hello@joebashour.dev) (fastest channel to reach me) 
 
 <br>
 
