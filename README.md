@@ -1,4 +1,4 @@
-### 👋 Hi there, I’m @TheSandSmith!
+### 👋 Hi there, I’m @TheSandSensei!
 <br>
 
 🌎 **Based in:** Montréal (Canada)..._ça va bien ?_
@@ -7,17 +7,17 @@
 
 🍃 **Like a breeze:**</br>
 &emsp;
-_Python (FastAPI + Scripting), Java (Spring Boot), PHP (Laravel), React.js / Next.js, Vue.js / Nuxt.js</br>_
+_Python (FastAPI + Scripting), Java (Spring Boot), PHP (Laravel), JS/TS (React.js / Next.js, Vue.js / Nuxt.js)</br>_
 
 🎯 **Currently learning:**</br>
 &emsp;
-_Svelte / SvelteKit, Go, Rust, Solidity</br>_
+_Svelte / SvelteKit, Astro.js, Medusa.js</br>_
 
 📫 **Ping me:** [hello@joebashour.dev](mailto:hello@joebashour.dev) (fastest channel to reach me) 
 
 <br>
 
-### `isActivelyOpenToOffers = true`
+### `isCasuallyOpenToOffers = true`
 
 <!---
 Sample comment block. Not visibile.
